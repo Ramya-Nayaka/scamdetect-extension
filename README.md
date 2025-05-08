@@ -1,0 +1,1 @@
+# scamdetect-extension
