@@ -50,3 +50,7 @@ For questions or concerns, please contact:
 **Ramya Sreekanta Nayaka**  
 IST Department, George Mason University  
 rnayaka@gmu.edu
+
+---
+
+© Humanitarian Informatics Lab, George Mason University, 2025. All rights reserved.
